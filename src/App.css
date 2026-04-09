@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.container {
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
+
+.card {
+  background: rgba(255,255,255,0.2);
+  padding: 15px;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 10px;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Status Colors */
+.item.pending {
+  background: yellow;
+  color: black;
+}
+
+.item.taken {
+  background: green;
+}
+
+.item.missed {
+  background: red;
+}
+
+/* Popup */
+.popup {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  color: black;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Mood */
+.mood span {
+  font-size: 25px;
+  cursor: pointer;
+  margin: 5px;
+}
