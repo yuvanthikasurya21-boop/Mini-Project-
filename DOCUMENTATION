@@ -1,0 +1,248 @@
+REACT JS PROJECT REPORT ON
+MEDICINE REMINDER APPLICATION
+Submitted by
+
+Yuvanthika R
+24BIT063
+
+
+Under the Guidance of
+
+ARAVIND
+Technical Trainer
+Technical Department, KG College of Arts and Science
+
+Academic Year: 2025 – 2026
+APRIL 2026
+DECLARATION
+
+I hereby declare that the project entitled “Medicine Reminder Application” submitted in partial fulfillment of the requirements for the course REACT JS DEVELOPMENT is a record of my original work carried out under the guidance of ARAVIND.
+
+CERTIFICATE
+
+This is to certify that the project entitled “Medicine Reminder Application” is a bona fide work carried out by YUVANTHIKA R (24BIT063).
+
+ABSTRACT
+
+The Medicine Reminder Application is a web-based application designed to help users manage their medication schedules effectively. It allows users to add medicines, set reminders, and receive alerts at the correct time.
+
+The application is developed using React JS, HTML, CSS, and JavaScript. It provides a user-friendly interface for tracking daily medications and ensures users do not miss doses. The system uses local storage for saving reminder data and supports real-time notifications.
+
+This project demonstrates how modern web technologies can be used to improve healthcare management and personal well-being.
+
+Chapter 1: Introduction
+1.1 Background of the Study
+
+In today’s busy lifestyle, people often forget to take medicines on time. A digital reminder system helps ensure proper medication adherence.
+
+1.2 Problem Statement
+
+Many individuals miss doses due to lack of reminders, leading to health risks.
+
+1.3 Objectives of the Project
+To create a medicine reminder system
+To send timely notifications
+To store and manage medicine schedules
+
+
+1.4 Purpose and Significance
+
+Helps users maintain health by reminding them to take medicines regularly.
+
+1.5 Scope and Limitations
+
+Scope: Reminder system with alerts
+Limitations: No backend or doctor integration
+
+1.6 Methodology Overview
+
+SDLC approach: Analysis → Design → Development → Testing
+
+
+
+Chapter 2: System Analysis
+
+2.1 Existing System
+
+Manual reminders (memory, alarms)
+
+2.2 Drawbacks
+Easy to forget
+No tracking system
+No automation
+
+
+2.3 Proposed System
+
+A web app that:
+
+Stores medicine details
+Sends reminders
+Tracks schedule
+
+
+2.4 Features
+Add/Edit/Delete medicines
+Set reminder time
+Notifications
+Simple UI
+
+
+2.5 Feasibility Study
+Technical: React JS (easy)
+Economic: Low cost
+Operational: User-friendly
+
+
+2.6 Requirement Analysis
+
+Functional:
+
+Add medicine
+Set time
+Alert user
+
+Non-Functional:
+
+Fast
+Responsive
+Easy to use
+
+
+Chapter 3: System Design
+
+3.1 System Architecture
+
+Frontend (React) + LocalStorage
+
+3.2 Use Case Diagram
+
+Actors:
+
+User
+
+Use Cases:
+
+Add medicine
+Set reminder
+Get notification
+Delete medicine
+
+
+3.3 Data Flow Diagram
+
+Input → Process → Reminder → Output (Notification)
+
+3.4 ERD
+
+Entities:
+
+Medicine (Name, Time, Dose)
+Reminder
+
+
+3.5 UI Design
+
+Pages:
+
+Home Page
+Add Medicine Page
+Reminder List
+Chapter 4: System Implementation
+
+
+
+4.1 Development Tools
+React JS
+HTML, CSS
+JavaScript
+VS Code
+
+
+
+4.2 Modules
+Medicine Module
+Reminder Module
+Notification Module
+
+
+
+4.3 Algorithm
+
+Reminder Logic:
+
+Get current time
+Compare with medicine time
+If matched → show notification
+4.4 System Integration
+
+All modules connected using React components
+
+4.5 Security
+Input validation
+Safe local storage
+
+
+Chapter 5: System Testing
+
+
+5.1 Testing Methodology
+Unit Testing
+Integration Testing
+
+
+5.2 Test Cases
+Add medicine → Pass
+Reminder alert → Pass
+
+
+5.3 Error Handling
+Empty input validation
+Invalid time check
+
+
+5.4 Performance
+
+Fast and responsive
+
+Chapter 6: Results and Discussion
+6.1 System Outputs
+Reminder notifications
+Medicine list
+6.2 Discussion
+
+System works effectively for daily medicine tracking
+
+6.3 User Feedback
+
+Easy to use and helpful
+
+Chapter 7: Conclusion and Future Enhancement
+7.1 Summary
+
+The project successfully helps users remember medicines.
+
+7.2 Limitations
+No login system
+No cloud sync
+
+
+
+7.3 Future Scope
+Mobile app version
+Doctor integration
+Cloud storage
+SMS reminders
+Chapter 8: References
+MDN Web Docs
+W3Schools
+React Documentation
+
+
+Appendices
+
+Screenshots
+Home page
+Add medicine page
+Reminder alert
+
