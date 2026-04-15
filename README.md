@@ -2,6 +2,11 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+## Project Document
+
+- View on GitHub: [Document.pdf](https://github.com/yuvanthikasurya21-boop/Mini-Project-/blob/main/src/Document.pdf)
+- Open the file directly: [Raw PDF](https://raw.githubusercontent.com/yuvanthikasurya21-boop/Mini-Project-/main/src/Document.pdf)
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
