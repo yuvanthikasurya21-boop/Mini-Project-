@@ -4,8 +4,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Project Document
 
-- View on GitHub: [Document.pdf](https://github.com/yuvanthikasurya21-boop/Mini-Project-/blob/main/src/Document.pdf)
-- Open the file directly: [Raw PDF](https://raw.githubusercontent.com/yuvanthikasurya21-boop/Mini-Project-/main/src/Document.pdf)
+- View on GitHub: [documentation.pdf](https://github.com/yuvanthikasurya21-boop/Mini-Project-/blob/main/src/documentation.pdf)
+- Open the file directly: [Raw PDF](https://raw.githubusercontent.com/yuvanthikasurya21-boop/Mini-Project-/main/src/documentation.pdf)
 
 Currently, two official plugins are available:
 
